@@ -11,4 +11,5 @@ Refer to the file: RelationalDataModel-Part1 , ER_FETCH.png
 Refer to the file: FetchRewardsTakeHomeTest
 
 # Part4: Communicate with Stakeholders
-Refer file: fetch1.docx
+Refer file: fetch1
+
