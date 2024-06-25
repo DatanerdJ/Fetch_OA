@@ -1,3 +1,4 @@
+# Solutions of the Fetch Rewards Take Home Test
 ## Getting Started
 
 These are things you need to know or have before you start working with this project.
@@ -29,13 +30,17 @@ These are things you need to know or have before you start working with this pro
    - Visit the [VS Code Download Page](https://code.visualstudio.com/Download).
    - Open VS Code and install the Python and Jupyter extensions from the Extensions view:
      
-# Solutions of the Fetch Rewards Take Home Test
-# Part1: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
-Refer to the file: RelationalDataModel-Part1 , ER_FETCH.png
 
-# Part2 and Part3 :  Write queries that directly answer predetermined questions from a business stakeholder and Evaluate Data Quality Issues in the Data Provided
-Refer to the file: FetchRewardsTakeHomeTest
+## Part1: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
+RelationalDataModel-Part1.pdf
+ER_Fetch.png
 
-# Part4: Communicate with Stakeholders
-Refer file: fetch1
+## Part2 and Part3 :  Write queries that directly answer predetermined questions from a business stakeholder and Evaluate Data Quality Issues in the Data Provided
+FetchRewardsTakeHomeTest.ipynb
 
+## Part4: Communicate with Stakeholders
+emailforstakeholder.pdf
+
+Contact
+For any questions or feedback, please reach out to:
+Email: janhvishah12345@gmail.com
