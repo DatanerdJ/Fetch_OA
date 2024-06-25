@@ -32,8 +32,8 @@ These are things you need to know or have before you start working with this pro
      
 
 ## Part1: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
-RelationalDataModel-Part1.pdf
-ER_Fetch.png
+1. [RelationalDataModel-Part1.pdf](https://github.com/DatanerdJ/Fetch_OA/blob/main/wiki/RelationalDataModel-Part1.pdf)
+
 
 ## Part2 and Part3 :  Write queries that directly answer predetermined questions from a business stakeholder and Evaluate Data Quality Issues in the Data Provided
 FetchRewardsTakeHomeTest.ipynb
@@ -41,6 +41,6 @@ FetchRewardsTakeHomeTest.ipynb
 ## Part4: Communicate with Stakeholders
 emailforstakeholder.pdf
 
-Contact
+##Contact
 For any questions or feedback, please reach out to:
 Email: janhvishah12345@gmail.com
