@@ -31,15 +31,32 @@ These are things you need to know or have before you start working with this pro
    - Open VS Code and install the Python and Jupyter extensions from the Extensions view:
      
 
-## Part1: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
-1. [RelationalDataModel-Part1.pdf](https://github.com/DatanerdJ/Fetch_OA/blob/main/wiki/RelationalDataModel-Part1.pdf)
+```markdown
+### Fetch Rewards Coding Exercise Overview
 
+#### Project Overview
+This exercise encompasses several key aspects of data engineering and analysis using unstructured JSON data from Fetch Rewards. The focus is on enhancing data integrity, enabling efficient querying, and communicating insights effectively.
 
-## Part2 and Part3 :  Write queries that directly answer predetermined questions from a business stakeholder and Evaluate Data Quality Issues in the Data Provided
-FetchRewardsTakeHomeTest.ipynb
+#### Part 1: Data Modeling
+- **Objective**: Develop a robust Snowflake Schema for structured relational data modeling..
+- **Outcome**: Clear diagram and SQL schema for users, brands, and receipts dimensions.
 
-## Part4: Communicate with Stakeholders
-emailforstakeholder.pdf
+#### Part 2: Querying Data
+- **Objective**: Address business queries using SQL.
+
+#### Part 3: Data Quality Assessment
+- **Objective**: Evaluate and improve data quality.
+- **Approach**: Utilize Python for exploration, focusing on identifying and resolving issues like missing values, duplicates, and inconsistent data.
+- **Findings**: Notable findings include missing data across various fields, duplicate entries in user records, and discrepancies in receipt status distribution.
+
+#### Part 4: Stakeholder Communication
+- **Objective**: Communicate findings effectively to stakeholders.
+- **Content**: Detailed email discussing data modeling process, identified data quality issues, and recommendations for optimizing data assets and query performance.
+
+### Areas of Improvement
+1. **Enhanced Data Integrity**: Implement strategies to handle missing data more effectively and ensure consistency in data across different sources.
+   
+2. **Advanced Query Optimization**: Explore indexing strategies and query optimization techniques to enhance performance, especially as data scales.
 
 ##Contact
 For any questions or feedback, please reach out to:
