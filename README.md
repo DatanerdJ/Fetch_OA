@@ -34,7 +34,7 @@ These are things you need to know or have before you start working with this pro
 ### Project Overview
 This exercise encompasses several key aspects of data engineering and analysis using unstructured JSON data from Fetch Rewards. The focus is on enhancing data integrity, enabling efficient querying, and communicating insights effectively.
 
-#### Part 1: Data Modeling
+#### Part 1: Data Modelinghttps://github.com/DatanerdJ/Fetch_OA/blob/main/RelationalDataModel-Part1.pdf
 - **Objective**: Develop a robust Snowflake Schema for structured relational data modeling..
 - **Outcome**: Clear diagram and SQL schema for users, brands, and receipts dimensions.
 
