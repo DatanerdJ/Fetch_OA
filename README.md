@@ -46,7 +46,7 @@ This exercise encompasses several key aspects of data engineering and analysis u
 - **Approach**: Utilize Python for exploration, focusing on identifying and resolving issues like missing values, duplicates, and inconsistent data.
 - **Findings**: Notable findings include missing data across various fields, duplicate entries in user records, and discrepancies in receipt status distribution.
 
-#### Part 4: Stakeholder Communication[Email for Stakeholder](https://github.com/DatanerdJ/Fetch_OA/wiki/emailforstakeholder.pdf)
+#### Part 4: Stakeholder Communication [Email for Stakeholder](https://github.com/DatanerdJ/Fetch_OA/wiki/emailforstakeholder.pdf)
 - **Objective**: Communicate findings effectively to stakeholders.
 - **Content**: Detailed email discussing data modeling process, identified data quality issues, and recommendations for optimizing data assets and query performance.
 
