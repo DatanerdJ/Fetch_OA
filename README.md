@@ -31,10 +31,7 @@ These are things you need to know or have before you start working with this pro
    - Open VS Code and install the Python and Jupyter extensions from the Extensions view:
      
 
-```markdown
-### Fetch Rewards Coding Exercise Overview
-
-#### Project Overview
+### Project Overview
 This exercise encompasses several key aspects of data engineering and analysis using unstructured JSON data from Fetch Rewards. The focus is on enhancing data integrity, enabling efficient querying, and communicating insights effectively.
 
 #### Part 1: Data Modeling
