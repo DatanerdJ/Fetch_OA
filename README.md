@@ -55,6 +55,6 @@ This exercise encompasses several key aspects of data engineering and analysis u
    
 2. **Advanced Query Optimization**: Explore indexing strategies and query optimization techniques to enhance performance, especially as data scales.
 
-##Contact
+## Contact
 For any questions or feedback, please reach out to:
 Email: janhvishah12345@gmail.com
